@@ -17,8 +17,9 @@ This project is a responsive password generator implemented using HTML, CSS, and
 **Optimized Codebase:** Utilizes modern JavaScript frameworks and libraries to enhance efficiency and maintainability.
 
 **Technologies Used**:
-HTML: Structure and layout of the password generator interface.
 
-CSS: Styling and responsive design for a polished user experience.
+**HTML:** Structure and layout of the password generator interface.
 
-JavaScript: Logic for password generation, shuffling, and interactivity.
+**CSS**:Styling and responsive design for a polished user experience.
+
+**JavaScript:** Logic for password generation, shuffling, and interactivity.
