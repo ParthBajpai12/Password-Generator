@@ -2,7 +2,7 @@
 
 This project is a responsive password generator implemented using HTML, CSS, and JavaScript. It dynamically creates secure passwords with user-configurable options to customize password strength. It also includes features to shuffle passwords for enhanced security.
 
-**Features**
+**Features**:
 
 **Dynamic Password Generation:** Generates secure passwords based on user-defined criteria.
 
