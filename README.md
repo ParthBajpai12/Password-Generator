@@ -23,3 +23,5 @@ This project is a responsive password generator implemented using HTML, CSS, and
 **CSS**:Styling and responsive design for a polished user experience.
 
 **JavaScript:** Logic for password generation, shuffling, and interactivity.
+
+ **Live Demo**: [Visit our live demo](https://parthbajpai12.github.io/Razorpay-Clone/)
